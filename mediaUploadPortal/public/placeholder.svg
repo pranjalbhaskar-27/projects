@@ -1,0 +1,9 @@
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#f0f0f0"/>
+  <g fill="#ccc">
+    <path d="M160,100 L240,100 L240,200 L160,200 Z" />
+    <path d="M200,85 A15,15 0 0,1 215,100 A15,15 0 0,1 200,115 A15,15 0 0,1 185,100 A15,15 0 0,1 200,85 Z" />
+    <path d="M240,200 L160,200 L180,150 L190,170 L210,130 Z" />
+  </g>
+  <text x="200" y="240" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#888">No Preview Available</text>
+</svg> 
